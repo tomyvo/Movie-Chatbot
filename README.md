@@ -42,7 +42,32 @@
 
 ---
 
+## 📸 Demo – Example Queries
+
+Try the following queries in the Semantic Movie Recommender:
+
+- **"A movie about fast cars"**  
+- **"A movie about magic"**  
+- **"A movie about sex and romance"**
+
+Output examples (movie posters + descriptions):
+
+<p align="center">
+  <img src="./images/fast_cars.png" alt="Fast Cars" width="30%" />
+  <img src="./images/magic.png" alt="Magic" width="30%" />
+  <img src="./images/romance.png" alt="Sex & Romance" width="30%" />
+</p>
+
+---
+
+
 ## ⚡ Quickstart
+
+I would recommend you to use my kaggle notebook to start and demo the semantic recommender
+(https://www.kaggle.com/code/tomy00/netflix-recommender)
+
+Or otherwise you use the code yourself
+
 
 ```bash
 # Clone repo

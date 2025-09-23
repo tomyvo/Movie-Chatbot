@@ -1,0 +1,8 @@
+pandas==2.2.3
+langchain==0.1.0  
+langchain-huggingface==0.0.8  
+langchain-chroma==0.1.0  
+sentence-transformers==2.2.2
+transformers==4.35.0
+torch==2.1.0
+gradio==3.40.0

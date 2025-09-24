@@ -71,8 +71,8 @@ Or otherwise you use the code yourself
 
 ```bash
 # Clone repo
-git clone https://github.com/YourUser/Semantic-Movie-Chatbot.git
-cd Semantic-Movie-Chatbot
+git clone https://github.com/YourUser/Movie-Chatbot.git
+cd Movie-Chatbot
 
 # (Optional) Create virtual environment
 python -m venv venv

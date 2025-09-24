@@ -47,15 +47,15 @@
 Try the following queries in the Semantic Movie Recommender:
 
 - **"A movie about fast cars"**  
-- **"A movie about magic"**  
+- **"A movie about space"**  
 - **"A movie about sex and romance"**
 
 Output examples (movie posters + descriptions):
 
 <p align="center">
-  <img src="./images/fast_cars.png" alt="Fast Cars" width="30%" />
-  <img src="./images/magic.png" alt="Magic" width="30%" />
-  <img src="./images/romance.png" alt="Sex & Romance" width="30%" />
+  <img src="./images/formel.png" alt="Fast Cars" width="30%" />
+  <img src="./images/interstellar.png" alt="Space" width="30%" />
+  <img src="./images/gf.png" alt="Sex & Romance" width="30%" />
 </p>
 
 ---

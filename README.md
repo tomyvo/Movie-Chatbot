@@ -44,13 +44,13 @@
 
 ## 📸 Demo – Example Queries
 
-Try the following queries in the Semantic Movie Recommender:
+Try the following prompts in the Chatbot:
 
 - **"A movie about fast cars"**  
 - **"A movie about space"**  
 - **"A movie about sex and romance"**
 
-Output examples (movie posters + descriptions):
+Output examples:
 
 <p align="center">
   <img src="./images/formel.png" alt="Fast Cars" width="30%" />
@@ -64,7 +64,7 @@ Output examples (movie posters + descriptions):
 ## ⚡ Quickstart
 
 I would recommend you to use my kaggle notebook to start and demo the semantic recommender
-(https://www.kaggle.com/code/tomy00/netflix-recommender)
+(https://www.kaggle.com/code/tomy00/upgraded-chatbot)
 
 Or otherwise you use the code yourself
 
